@@ -1,4 +1,4 @@
-# Pwrd-GEN V.1 ✌
+# Pwrd-GEN V.1
 
 Make Your Passwords Stronger!
 
